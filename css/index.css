@@ -84,11 +84,14 @@ header {
     color: black;
   }
   
-  
+  img {
+      padding: 20px;
+  }
 
 .container {
     width: 800px;
     margin: 0 auto;
+
 }
 
 .top-content {
